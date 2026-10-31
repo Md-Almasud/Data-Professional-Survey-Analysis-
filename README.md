@@ -96,8 +96,7 @@ The survey includes professionals from multiple continents and job roles.
 
 Data-Professional-Survey-Analysis/
 │
-├── images/
-│   └── dashboard.png
+├── Data Professional Survey Dashboard <Screenshot 2026-10-31 141800.png>
 │
 ├── Data Professional Survey.xlsx
 │
